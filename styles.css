@@ -6,7 +6,7 @@ styles.css
   box-sizing: border-box;
   font-family: Arial, sans-serif;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 body {
@@ -23,7 +23,6 @@ main {
   background-color: #2244b3;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-  color: white;
 }
 
 footer {

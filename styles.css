@@ -5,13 +5,14 @@ styles.css
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
+  text-align: center;
 }
 
 body {
-  background: #007bff;
-  color: white;
-  padding: 20px;
-  border-radius: 8px;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20px;
 }
 
 main {
